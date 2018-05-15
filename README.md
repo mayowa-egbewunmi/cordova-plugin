@@ -34,7 +34,7 @@ The first step to ​using the plugin is to register as a merchant. This is desc
 
 * Add cordova payment plugin
 ```
-cordova plugin add https://github.com/tobzy/cordova-plugin.git
+cordova plugin add https://github.com/mayowa-egbewunmi/cordova-plugin.git
 ```
 
 * Add ```ios``` platform. Make sure to add the platform **after** adding the plugin.
